@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "monospace:pixelsize=16";
+static char *font2 = "Roboto Mono for Powerline:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
